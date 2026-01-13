@@ -12,5 +12,8 @@ div{
     align-items: center;
 }
 h3{
-    color: white;
+    margin: 1.5em;
+    background: linear-gradient(45deg,red,blue);
+    background-clip: text;
+    color: rgba(0, 0, 0, 0);
 }
