@@ -17,7 +17,7 @@ div{
     align-items: center;
 }
 h3{
-    font-size: 50px;
+    font-size: 3rem;
     margin: 1.5rem;
     background: linear-gradient(45deg,red,blue);
     -webkit-background-clip: text;
