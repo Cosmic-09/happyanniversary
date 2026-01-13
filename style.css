@@ -1,8 +1,16 @@
 body{
     background: linear-gradient(45deg,red,blue);
     min-height: 100dvh;
+    display: flex;
 }
 div{
     height: 98dvh;
-    background-color: black;
+    width: 98dvb;
+    background-color: rgb(0, 0, 0);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+h3{
+    color: white;
 }
